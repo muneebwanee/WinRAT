@@ -107,6 +107,6 @@ $ help COMMAND
 Twitter: <a href="//twitter.com/muneebwanee">@muneebwanee</a><br>
 Instagram: <a href="//instagram.com/muneebwanee">@muneebwanee</a><br>
 Facebook: <a href="//facebook.com/muneebwane">@muneebwanee</a><br>
-LinkedIn: <a href="//linkedin.com/muneebwanee">@muneebwanee</a><br>
+LinkedIn: <a href="//linkedin.com/in/muneebwanee">@muneebwanee</a><br>
 GitHub: <a href="//github.com/muneebwanee">@muneebwanee</a><br>
 BuyMeACoffee: <a href="//buymeacoffee.com/muneebwanee">@muneebwanee</a><br>
