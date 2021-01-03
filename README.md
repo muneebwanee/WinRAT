@@ -104,7 +104,9 @@ $ help COMMAND
 ```
 
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/muneebwanee/WinRAT"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/muneebwanee%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <a href="https://instagram.com/muneebwanee"><img title="Instagram" src="https://img.shields.io/badge/IG-%40muneebwanee-red?style=for-the-badge&logo=instagram"></a>
 <a href="https://linkedin.com/in/muneebwanee"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-muneebwanee-orange?colorA=%23ff9696&colorB=%237E7B4E&style=for-the-badge"></a>
