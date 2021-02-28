@@ -107,11 +107,11 @@ $ help COMMAND
 <a href="https://github.com/muneebwanee/WinRAT"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/muneebwanee%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/@muneebwanee%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <a href="https://instagram.com/muneebwanee"><img title="Instagram" src="https://img.shields.io/badge/IG-%40muneebwanee-red?style=for-the-badge&logo=instagram"></a>
-<a href="https://linkedin.com/in/muneebwanee"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-muneebwanee-orange?colorA=%23ff9696&colorB=%237E7B4E&style=for-the-badge"></a>
-<a href="https://m.me/me.muneebwanee"><img title="Facebook" src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
-<a href="https://github.com/muneebwanee"><img title="GitHub" src="https://img.shields.io/badge/Github-Muneeb--Wanee-green?style=for-the-badge&logo=github"></a>
+<a href="https://linkedin.com/in/muneebwanee"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-@muneebwanee-orange?colorA=%23ff9696&colorB=%237E7B4E&style=for-the-badge"></a>
+<a href="https://m.me/me.muneebwanee"><img title="Facebook" src="https://img.shields.io/badge/Chat-@me.muneebwanee-blue?style=for-the-badge&logo=messenger"></a>
+<a href="https://github.com/muneebwanee"><img title="GitHub" src="https://img.shields.io/badge/Github-@muneebwanee-green?style=for-the-badge&logo=github"></a>
 <a href="https://ko-fi.com/muneb"><img alt="Donate using ko-fi" src="https://www.ko-fi.com/img/donate_sm.png"></a>
 <a href="https://www.buymeacoffee.com/muneebwanee" target="buymeacoffee"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <a href="https://liberapay.com/muneeb/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
